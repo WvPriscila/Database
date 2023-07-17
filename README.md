@@ -29,3 +29,4 @@
 * Avisar quanto de memória ocupada pela tabela ou pelas regiões
 * Data e hora da última modificação na tabela e regiões dela
 * Data e hora da criação da tabela e Data e hora da criação das regiões
+* texto, mensagem ou explicação no registro, classe, coluna ou linha
